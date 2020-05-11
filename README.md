@@ -1,2 +1,0 @@
-# ResumeHTML
-Prime Academy
